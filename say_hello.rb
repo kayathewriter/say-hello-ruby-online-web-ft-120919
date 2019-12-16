@@ -1,1 +1,1 @@
-def greeting
+say_hello("Gabriela")
