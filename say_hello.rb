@@ -1,6 +1,6 @@
 def 
 greeting(name = "Gabriela", language)
 
-prints "Hello #{Name}"
+puts "Hello #{Name}"
 
 end
