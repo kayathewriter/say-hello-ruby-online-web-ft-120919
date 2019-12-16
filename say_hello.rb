@@ -1,5 +1,5 @@
 def 
-say_hello("Name =",Ruby Programmer)
+say_hello("name = Gabriela",Ruby Programmer)
 
 prints "Hello #{Name}"
 
